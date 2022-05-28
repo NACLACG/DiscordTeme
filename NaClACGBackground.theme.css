@@ -13,7 +13,7 @@
  */
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(https://github.com/NACLACG/DiscordTeme/blob/CSS/NaClACG-Background.css);
+@import url(https://github.com/NACLACG/DiscordTeme/blob/CSS/NaClACGBackground.css);
 
 :root {
 	--transparencycolor:			156,97,254;						/* default:	0,0,0																								*/
